@@ -1,5 +1,6 @@
-<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/97883296-4cbd-47ec-8f62-901ffda6a207" />
+
 <img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/57d4420e-4b7d-4f68-9460-576affb5661f" />
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/97883296-4cbd-47ec-8f62-901ffda6a207" />
 # Finance Analysis Project
 Key Highlights:
 
